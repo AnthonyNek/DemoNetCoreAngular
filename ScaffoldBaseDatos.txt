@@ -1,0 +1,1 @@
+Scaffold-DbContext "data source = .; initial catalog = SistemaCrud; user id = sa; password = 12345" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
